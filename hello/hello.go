@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/ltfschoen/stringutil"
+	"github.com/ltfschoen/go_test/stringutil"
 )
 
 func main() {
